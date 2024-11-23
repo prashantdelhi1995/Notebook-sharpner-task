@@ -1,0 +1,11 @@
+.heading{
+    margin:0 auto;
+    padding:10px;
+    border:1px solid black;
+    width:50%;
+}
+.child{
+    padding: 5px;
+    margin:5px;
+    
+}
